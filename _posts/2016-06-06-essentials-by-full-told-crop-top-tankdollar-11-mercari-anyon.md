@@ -51,11 +51,11 @@ app_links:
     id: com.mercariapp.mercari
 isBasedOnUrl: 'https://item.mercari.com/gl/m533531273/'
 title: 'Essentials by full told crop top tank($ 11) - Mercari: Anyone can buy & sell'
-datePublished: '2016-06-06T07:21:00.327Z'
-dateModified: '2016-06-06T07:20:23.948Z'
-starred: false
+datePublished: '2016-06-06T07:21:26.626Z'
+dateModified: '2016-06-06T07:21:26.314Z'
 sourcePath: >-
   _posts/2016-06-06-essentials-by-full-told-crop-top-tankdollar-11-mercari-anyon.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
