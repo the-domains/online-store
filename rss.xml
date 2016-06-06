@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Online Store]]></title>
         <description><![CDATA[Online Store]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/online-store/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 07:06:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 06 Jun 2016 07:06:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/online-store/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Betsey Johnson mesh shoulder top roses s($ 15) - Mercari: Anyone can buy & sell]]></title>
+            <description><![CDATA[<article><h1>Betsey Johnson mesh shoulder top roses s($ 15) - Mercari: Anyone can buy & sell</h1><p>Lightweight floral long sleeved shirt "floral dot" Polka dot with roses Size small New with tags Style fg04t16r</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b50f96302d7b34df744b3d603d72515379093a97.jpg"></article>]]></description>
+            <link>https://item.mercari.com/gl/m900490839/</link>
+            <guid isPermaLink="false">e942385d-949f-4f2b-b521-58c15244f7df</guid>
+            <pubDate>Mon, 06 Jun 2016 07:06:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Luisa Spagnoli sweater cardigan salmon($ 45) - Mercari: Anyone can buy & sell]]></title>
             <description><![CDATA[<article><h1>Luisa Spagnoli sweater cardigan salmon($ 45) - Mercari: Anyone can buy & sell</h1><p>Dark salmon, peach orange color Gold buttons and embellishments Retail was $260 from boutique in Italy Long High quality rayon nylon Stretchy Xs 0-2</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e7511a5989da126359c86ffae75a83616de1c12.jpg"></article>]]></description>
