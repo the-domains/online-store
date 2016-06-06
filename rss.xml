@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Online Store]]></title>
+        <description><![CDATA[Online Store]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 06 Jun 2016 07:06:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Luisa Spagnoli sweater cardigan salmon($ 45) - Mercari: Anyone can buy & sell]]></title>
+            <description><![CDATA[<article><h1>Luisa Spagnoli sweater cardigan salmon($ 45) - Mercari: Anyone can buy & sell</h1><p>Dark salmon, peach orange color Gold buttons and embellishments Retail was $260 from boutique in Italy Long High quality rayon nylon Stretchy Xs 0-2</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e7511a5989da126359c86ffae75a83616de1c12.jpg"></article>]]></description>
+            <link>https://item.mercari.com/gl/m205436230/</link>
+            <guid isPermaLink="false">d279a165-550a-43a2-8bba-b33ec35869aa</guid>
+            <pubDate>Mon, 06 Jun 2016 07:06:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
