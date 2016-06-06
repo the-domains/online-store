@@ -51,11 +51,11 @@ app_links:
     id: com.mercariapp.mercari
 isBasedOnUrl: 'https://item.mercari.com/gl/m652252440/'
 title: 'High quality yarn bundle Lot 6 rolls($ 18) - Mercari: Anyone can buy & sell'
-datePublished: '2016-06-06T07:21:00.223Z'
-dateModified: '2016-06-06T07:20:37.604Z'
-starred: false
+datePublished: '2016-06-06T07:21:29.660Z'
+dateModified: '2016-06-06T07:21:29.444Z'
 sourcePath: >-
   _posts/2016-06-06-high-quality-yarn-bundle-lot-6-rollsdollar-18-mercari-anyone.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
