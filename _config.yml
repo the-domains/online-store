@@ -1,14 +1,14 @@
-layout_spectrum: 0.7307549566030502
-typography_spectrum: 0.4459822776261717
+layout_spectrum: 0.894363058032468
+typography_spectrum: 0.11181245627813041
 color:
-  brandStrength: 0.015410107560455799
-  lightness: 0.7147067193873227
-  saturation: 0.16100610606372356
-  rhythmicContrast: 0.9451997156720608
+  brandStrength: 0.02074520825408399
+  lightness: 0.9133749729953706
+  saturation: 0.8972415758762509
+  rhythmicContrast: 0.3452317086048424
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
 name: Online Store
